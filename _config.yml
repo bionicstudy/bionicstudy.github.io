@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BIONIC
+title: BIObanks Netherlands Internet Collaboration
 email: f.huider@vu.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  The BIObanks Netherlands Internet Collaboration is a consortium of Dutch cohorts and biobanks seeking to investigate the genetics of major depression in the Netherlands. Initiative by BBMRI-NL.
+  The BIObanks Netherlands Internet Collaboration (BIONIC) is a consortium of Dutch cohorts and biobanks seeking to investigate the genetics of major depression in the Netherlands. Initiative by BBMRI-NL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bionicstudy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Floris_Huider
