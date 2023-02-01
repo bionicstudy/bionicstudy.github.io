@@ -1,2 +1,0 @@
-# bionicstudy.github.io
-Initializing!
